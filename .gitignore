@@ -1,0 +1,16 @@
+.eide/
+.vscode/
+
+*.aedtresults/
+
+*.uvguix.*
+*.htm
+*.o
+*.d
+*.sct
+*.map
+*.crf
+*.lnp
+*.axf
+*.dep
+*.iex
